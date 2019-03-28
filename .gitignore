@@ -3,3 +3,6 @@
 ################################################################################
 
 /packages
+/.vs
+/FullCalendar_MVC/bin
+/FullCalendar_MVC/obj/Debug
